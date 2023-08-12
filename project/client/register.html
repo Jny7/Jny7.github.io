@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Registration</title>
+        <link rel="stylesheet" href="css/register.css" type="text/css">
+    </head>
+    <body>
+        <div class="top-container">
+            <span>Set your username and password here!</span>
+        </div>
+        <div class="register-wrapper">
+            <div class="register-container">
+                <p>Create a userID:</p>
+                <input type="text" name="username">
+                <p>Create a password:</p>
+                <input type="password" name="password"><br>
+                <p>Re-enter password:</p>
+                <input type="password" name="repassword"><br>
+                <input type="button" id="cancel" value="Cancel">
+                <input type="button" id="done" value="Done">
+                <p id="error_msg"></p>
+            </div>
+        </div>
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+        <script type="text/javascript" src="js/register.js"></script>
+    </body>
+</html>

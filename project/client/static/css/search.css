@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.top-container{
+    height: 50px;
+    background-color:cadetblue;
+    line-height: 50px;
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.top-container a {
+    text-decoration: none;
+    color: black;
+}
+
+.top-container >div{
+    width: 33%;
+    text-align: center;
+}
+
+.top-container .Heading{
+    font-size: 30px;
+}
+
+.searchWords{
+    width: 600px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 20px;
+}
+
+.searchWords .left-container{
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.searchWords .left-container p:first-child {
+    margin-top: 20px;
+}
+
+.searchWords .left-container #words{
+    font-size: 20px;
+    overflow: scroll;
+    height: 200px;
+    margin-top: 10px;
+    background-color: rgb(240, 240, 240);
+}
+
+.searchWords .left-container #words p{
+    text-decoration: none;
+    color:black;
+    font-weight: normal;
+    margin-top: 10px;
+    background-color:lightblue;
+}
+
+.searchWords .left-container #words a{
+    text-decoration: none;
+    color:black;
+}
+
+.searchWords .right-container{
+    width: 380px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.searchWords .right-container p{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.searchWords .right-container .item{
+    text-align: left;
+    margin-top: 3px;
+}
+
+.searchWords .right-container input[type="text"]{
+    width: 340px;
+    height: 30px;
+    margin-top: 1dvh;
+    margin-left: 13px;
+    font-size: 20px;
+}
+
+.searchWords .right-container input[type="button"]{
+    width: 130px;
+    height: 30px;
+    font-size: 18px;
+    margin-left: 35px;
+    margin-top: 13px;
+}
+
+.savedWords{
+    width: 200px;
+    height: 300px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px auto;
+    display: none;
+}
+
+.savedWords p:first-child {
+    margin-top: 20px;
+}
+
+.savedWords #savedwords{
+    font-size: 20px;
+    overflow: scroll;
+    height: 200px;
+    margin-top: 10px;
+    background-color: rgb(240, 240, 240);
+}
+
+.savedWords #savedwords p{
+    text-decoration: none;
+    color:black;
+    font-weight: normal;
+    margin-top: 10px;
+    background-color:lightblue;
+}
+
+.savedWords #savedwords a{
+    text-decoration: none;
+    color:black;
+}

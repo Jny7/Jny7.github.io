@@ -1,0 +1,30 @@
+{
+  "jack": {
+    "password": "abcd",
+    "name": "Lisa Smith",
+    "email": "aa@abc.com",
+    "signature": "sport music",
+    "words": [
+      "express",
+      "phrase",
+      "corrupt",
+      "synchronize"
+    ]
+  },
+  "tom": {
+    "password": "1234",
+    "name": "",
+    "email": "",
+    "signature": ""
+  },
+  "vina": {
+    "password": "1234",
+    "name": "aaa",
+    "email": "b1@dd.com",
+    "signature": "eee",
+    "words": [
+      "corrupt",
+      "synchronize"
+    ]
+  }
+}

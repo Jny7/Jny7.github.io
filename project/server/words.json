@@ -1,0 +1,51 @@
+{
+    "account": {
+        "noun": ["an oral or written description of particular events or situations",
+            "an explanatory statement of conduct, as to a superior."],
+        "verb": ["to give an explanation.", "to answer concerning one's conduct, duties, etc."]
+    }, 
+    "corrupt": {
+        "adjective": ["guilty of dishonest practices, as bribery; lacking integrity; crooked",
+        "debased in character; depraved; perverted; wicked; evil"],
+        "verb": ["to destroy the integrity of; cause to be dishonest, disloyal, etc., especially by bribery.",
+        "to lower morally; pervert"]
+    },
+    "synchronize": {
+        "verb": ["to cause to indicate the same time, as one timepiece with another",
+        "to cause to go on, move, operate, work, etc., at the same rate and exactly together"]
+    },
+    "phrase": {
+        "noun": ["a sequence of two or more words arranged in a grammatical construction and acting as a unit in a sentence."],
+        "verb": ["to express or word in a particular way", "to express in words"]
+    },
+    "express": {
+        "verb": ["to put (thought) into words; utter or state", "to show, manifest, or reveal"],
+        "adjective": ["clearly indicated; distinctly stated; definite; explicit; plain", "special; definite"],
+        "noun": ["an express train, bus, elevator, etc"]
+    },
+    "explicit": {
+        "adjective": ["fully and clearly expressed or demonstrated; leaving nothing merely implied; unequivocal",
+        "clearly developed or formulated"]
+    },
+    "develope": {
+        "verb": ["to bring out the capabilities or possibilities of; bring to a more advanced or effective state",
+        "to cause to grow or expand"]
+    },
+    "expand": {
+        "verb": ["to increase in extent, size, volume, scope, etc", "to spread or stretch out; unfold",
+        "to increase or grow in extent, bulk, scope, etc", "to spread out; unfold; develop"]
+    },
+    "extent": {
+        "noun": ["the space or degree to which a thing extends; length, area, volume, or scope",
+        "something extended, as a space; a particular length, area, or volume; something having extension"]
+    },
+    "degree": {
+        "noun": ["any of a series of steps or stages, as in a process or course of action; a point in any scale",
+        "a stage or point in or as if in progression or retrogression"]
+    },
+    "stage": {
+        "noun": ["a single step or degree in a process; a particular phase, period, position, etc., in a process, development, or series.",
+        "a raised platform or floor, as for speakers, performers, etc"],
+        "verb": ["to represent, produce, or exhibit on or as if on a stage", "to furnish with a stage, staging, stage set, etc"]
+    }
+}

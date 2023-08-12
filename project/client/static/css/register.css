@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.top-container{
+    height: 50px;
+    background-color:cadetblue;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.register-wrapper{
+    width: 400px;
+    height: 450px;
+    background-color:rgb(200, 200, 200, 0.9);
+    margin: 20px auto;
+    padding-top: 40px;
+}
+
+.register-container{
+    width: 300px;
+    margin: 0 auto;
+}
+
+.register-container p{
+    font-size: 24px;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.register-container input[type="text"],
+.register-container input[type="password"]{
+    height: 26px;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 16px;
+}
+
+.register-container input[type="button"]{
+    width: 120px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.register-container #error_msg{
+    color: red;
+    font-size: 18px;
+}
